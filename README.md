@@ -1,6 +1,18 @@
-# 💫 About Me:
-# Hello World! I'm Paro 🌍👨‍💻<br><br>
-🎓 CSE Student | Future Software Engineer  💡 Curious about how computers "think" — from Automata to AI 🔥 Love solving problems and building projects step by step 🚀 Currently Learning<br>- DSA & Competitive Programming<br>- Python & Java Development<br>- DBMS & Operating Systems<br>- Theory of Computation<br><br>## 🛠 Tools & Tech<br>- Languages: Python, Java, C<br>- Tools: Git, GitHub, VS Code<br><br>## 📫 Reach Me<br>- Email: mishrapaaras@gmail.com<br>- LinkedIn: linkedin.com/in/PaarasMishra
+# Hi there 👋 I'm Paro!
+
+🎓 Computer Science Engineering Student  
+💻 Passionate about learning Data Structures, Algorithms, and Software Development  
+🌱 Currently exploring: Python, Java, DBMS, and Automata Theory  
+🚀 Goal: Become a skilled Software Engineer and contribute to open-source projects  
+
+## 🛠 Skills
+- Programming: Python, Java, C  
+- CS Fundamentals: DBMS, Operating Systems, Computer Networks, Automata Theory  
+- Tools: Git, GitHub, VS Code  
+
+## 📫 Connect with Me
+- Email: your-email@example.com
+- LinkedIn: linkedin.com/in/your-profile
 
 
 
