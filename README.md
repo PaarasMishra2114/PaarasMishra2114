@@ -11,8 +11,8 @@
 - Tools: Git, GitHub, VS Code  
 
 ## 📫 Connect with Me
-- Email: your-email@example.com
-- LinkedIn: linkedin.com/in/your-profile
+- Email: mishrapaaras@gmail.com
+- LinkedIn: linkedin.com/in/paarasmishra
 
 
 
@@ -20,7 +20,11 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paarasonherbs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PaarasMishra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishrapaaras@gmail.com) 
+Instagram : [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paarasonherbs) 
+<br>
+LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PaarasMishra) 
+<br>
+Email: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishrapaaras@gmail.com) 
 
 
 
