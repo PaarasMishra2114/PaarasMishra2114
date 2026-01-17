@@ -1,5 +1,6 @@
 # 💫 About Me:
-# Hello World! I'm Paro 🌍👨‍💻<br><br>🎓 CSE Student | Future Software Engineer  <br>💡 Curious about how computers "think" — from Automata to AI  <br>🔥 Love solving problems and building projects step by step  <br><br>## 🚀 Currently Learning<br>- DSA & Competitive Programming<br>- Python & Java Development<br>- DBMS & Operating Systems<br>- Theory of Computation<br><br>## 🛠 Tools & Tech<br>- Languages: Python, Java, C<br>- Tools: Git, GitHub, VS Code<br><br>## 📫 Reach Me<br>- Email: mishrapaaras@gmail.com<br>- LinkedIn: linkedin.com/in/PaarasMishra<br>
+# Hello World! I'm Paro 🌍👨‍💻<br><br>
+🎓 CSE Student | Future Software Engineer  💡 Curious about how computers "think" — from Automata to AI 🔥 Love solving problems and building projects step by step 🚀 Currently Learning<br>- DSA & Competitive Programming<br>- Python & Java Development<br>- DBMS & Operating Systems<br>- Theory of Computation<br><br>## 🛠 Tools & Tech<br>- Languages: Python, Java, C<br>- Tools: Git, GitHub, VS Code<br><br>## 📫 Reach Me<br>- Email: mishrapaaras@gmail.com<br>- LinkedIn: linkedin.com/in/PaarasMishra
 
 
 ## 🌐 Socials:
@@ -12,8 +13,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=PaarasMishra2114&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PaarasMishra2114&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PaarasMishra2114&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -21,8 +20,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=PaarasMishra2114&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Paro) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
